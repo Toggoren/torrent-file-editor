@@ -128,12 +128,12 @@ void closeWinConsole()
 #endif
 }
 
-bool toJson(const QString &source, const QString &dest)
+int toJson(const QString &source, const QString &dest)
 {
     QFile sourceFile(source);
     if (!sourceFile.open(QIODevice::ReadOnly)) {
         qDebug("Error: can't open source file");
-        return false;
+        return 100;
     }
 
     QByteArray raw(sourceFile.readAll());
@@ -145,7 +145,7 @@ bool toJson(const QString &source, const QString &dest)
     delete bencode;
     if (!json.isValid()) {
         qDebug("Error: can't parse bencode format");
-        return false;
+        return 101;
     }
 
     QString str = JsonConverter::stringify(json);
@@ -153,21 +153,21 @@ bool toJson(const QString &source, const QString &dest)
     QFile destFile(dest);
     if (!destFile.open(QIODevice::WriteOnly | QIODevice::Text)) {
         qDebug("Error: can't open destination file");
-        return false;
+        return 102;
     }
 
     destFile.write(str.toUtf8());
     destFile.close();
-    return true;
+    return 0;
 }
 
-bool fromJson(const QString &source, const QString &dest)
+int fromJson(const QString &source, const QString &dest)
 {
     QFile sourceFile(source);
     if (!sourceFile.open(QIODevice::ReadOnly | QIODevice::Text)) {
         openWinConsole();
         qDebug("Error: can't open source file");
-        return false;
+        return 200;
     }
 
     QString str = QString::fromUtf8(sourceFile.readAll());
@@ -177,7 +177,7 @@ bool fromJson(const QString &source, const QString &dest)
 
     if (!variant.isValid()) {
         qDebug("Error: can't parse json format");
-        return false;
+        return 201;
     }
 
     Bencode *bencode = Bencode::fromJson(variant);
@@ -185,12 +185,12 @@ bool fromJson(const QString &source, const QString &dest)
     QFile destFile(dest);
     if (!destFile.open(QIODevice::WriteOnly)) {
         qDebug("Error: can't open destination file");
-        return false;
+        return 202;
     }
     destFile.write(bencode->toRaw());
     destFile.close();
     delete bencode;
-    return true;
+    return 0;
 }
 
 int main(int argc, char *argv[])
@@ -218,19 +218,19 @@ int main(int argc, char *argv[])
 #endif
 
         if (command == QLatin1String("--to-json") || command == QLatin1String("--from-json")) {
-            int retCode = 0;
-            openWinConsole();
+            int retCode;
+            // openWinConsole();
 
             if (!QFile::exists(source)) {
                 qDebug("Error: source file is not exist!");
-                retCode = -1;
+                retCode = 404;
             }
             else if (command == QLatin1String("--to-json"))
-                retCode = toJson(source, dest) ? 0 : -1;
+                retCode = toJson(source, dest);
             else
-                retCode = fromJson(source, dest) ? 0 : -1;
+                retCode = fromJson(source, dest);
 
-            closeWinConsole();
+            // closeWinConsole();
             return retCode;
         }
     }
