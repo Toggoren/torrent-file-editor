@@ -4,41 +4,41 @@
   <context>
     <name>AboutDlg</name>
     <message>
-      <location filename="../aboutdlg.ui" line="162"/>
+      <location filename="../aboutdlg.ui" line="176"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Author: Ivan Romanov &lt;a href="mailto:drizt72@zoho.eu"&gt;&lt;span style=" text-decoration: underline; color:#0057ae;"&gt;drizt72@zoho.eu&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;License: GNU General Public License v3.0 or later&lt;/p&gt;&lt;p&gt;Home Page: &lt;a href="https://torrent-file-editor.github.io"&gt;&lt;span style=" text-decoration: underline; color:#0057ae;"&gt;https://torrent-file-editor.github.io&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Sources: &lt;a href="https://github.com/torrent-file-editor/torrent-file-editor"&gt;&lt;span style=" text-decoration: underline; color:#0057ae;"&gt;https://github.com/torrent-file-editor/torrent-file-editor&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Thanks to &lt;a href="https://rutracker.org/forum/profile.php?mode=viewprofile&amp;amp;u=8465051"&gt;&lt;span style=" text-decoration: underline; color:#0057ae;"&gt;ALEX Krays&lt;/span&gt;&lt;/a&gt; for application icon&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
       <translatorcomment>Do not touch HTML tags. It must be as is. Also check that autocorrection is disabled in your editor. Be care with trailing and leading spaces.</translatorcomment>
       <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;লেখক: ইভান রোমানভ &lt;a href="mailto:drizt72@zoho.eu"&gt;&lt;span style=" text-decoration: underline; color:#0057ae;"&gt;drizt72@zoho.eu&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;License: GNU General Public License v3.0 or later&lt;/p&gt;&lt;p&gt;হোমপেজ: &lt;a href="https://torrent-file-editor.github.io"&gt;&lt;span style=" text-decoration: underline; color:#0057ae;"&gt;https://torrent-file-editor.github.io&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Sources: &lt;a href="https://github.com/torrent-file-editor/torrent-file-editor"&gt;&lt;span style=" text-decoration: underline; color:#0057ae;"&gt;https://github.com/torrent-file-editor/torrent-file-editor&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;ধন্যবাদ &lt;a href="https://rutracker.org/forum/profile.php?mode=viewprofile&amp;amp;u=8465051"&gt;&lt;span style=" text-decoration: underline; color:#0057ae;"&gt;ALEX Krays&lt;/span&gt;&lt;/a&gt; আপ্লিকেশন এর জন্য&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-      <location filename="../aboutdlg.ui" line="39"/>
+      <location filename="../aboutdlg.ui" line="44"/>
       <source>&lt;h3&gt;Coffee for Developer&lt;/h3&gt;</source>
       <translatorcomment>Do not touch HTML tags. It must be as is. Also check that autocorrection is disabled in your editor. Be care with trailing and leading spaces.</translatorcomment>
       <translation type="unfinished">&lt;h3&gt;Coffee for Developer&lt;/h3&gt;</translation>
     </message>
     <message>
-      <location filename="../aboutdlg.ui" line="104"/>
+      <location filename="../aboutdlg.ui" line="118"/>
       <source>Check for Update</source>
       <translation>আপডেটের জন্য চেক করুন</translation>
     </message>
     <message>
-      <location filename="../aboutdlg.cpp" line="167"/>
+      <location filename="../aboutdlg.cpp" line="148"/>
       <source>About %1</source>
       <translatorcomment>Do not touch %1 it must be as is.</translatorcomment>
       <translation>কথা %1</translation>
     </message>
     <message>
-      <location filename="../aboutdlg.cpp" line="222"/>
+      <location filename="../aboutdlg.cpp" line="205"/>
       <source>Something went wrong</source>
       <translation>কিছু একটা ভুল হয়েছে</translation>
     </message>
     <message>
-      <location filename="../aboutdlg.cpp" line="226"/>
+      <location filename="../aboutdlg.cpp" line="209"/>
       <source>New version &lt;a href="%2"&gt;%1&lt;/a&gt; has been detected</source>
       <translatorcomment>Do not touch %1 it must be as is. Do not touch HTML tags. It must be as is. Also check that autocorrection is disabled in your editor. Be care with trailing and leading spaces.</translatorcomment>
       <translation>নতুন সংস্করণ &lt;a href="%2"&gt;%1&lt;/a&gt; সনাক্ত করা হয়েছে</translation>
     </message>
     <message>
-      <location filename="../aboutdlg.cpp" line="229"/>
+      <location filename="../aboutdlg.cpp" line="211"/>
       <source>The latest version is installed</source>
       <translation>সর্বশেষ সংস্করণ ইনস্টল করা হচ্ছে</translation>
     </message>
@@ -46,22 +46,22 @@
   <context>
     <name>BencodeModel</name>
     <message>
-      <location filename="../bencodemodel.cpp" line="770"/>
+      <location filename="../bencodemodel.cpp" line="796"/>
       <source>Name</source>
       <translation>নাম</translation>
     </message>
     <message>
-      <location filename="../bencodemodel.cpp" line="771"/>
+      <location filename="../bencodemodel.cpp" line="799"/>
       <source>Type</source>
       <translation>প্রকার</translation>
     </message>
     <message>
-      <location filename="../bencodemodel.cpp" line="772"/>
+      <location filename="../bencodemodel.cpp" line="802"/>
       <source>Hex</source>
       <translation>হেক্স</translation>
     </message>
     <message>
-      <location filename="../bencodemodel.cpp" line="773"/>
+      <location filename="../bencodemodel.cpp" line="805"/>
       <source>Value</source>
       <translation>মান</translation>
     </message>
@@ -69,12 +69,12 @@
   <context>
     <name>DateWidget</name>
     <message>
-      <location filename="../datewidget.cpp" line="153"/>
+      <location filename="../datewidget.cpp" line="141"/>
       <source>Clean</source>
       <translation>পরিষ্কার</translation>
     </message>
     <message>
-      <location filename="../datewidget.cpp" line="154"/>
+      <location filename="../datewidget.cpp" line="142"/>
       <source>Show calendar</source>
       <translation>ক্যালেন্ডার দেখান</translation>
     </message>
@@ -82,12 +82,12 @@
   <context>
     <name>FolderEdit</name>
     <message>
-      <location filename="../folderedit.cpp" line="71"/>
+      <location filename="../folderedit.cpp" line="54"/>
       <source>Choose folder</source>
       <translation>ফোল্ডার নির্বাচন করুন</translation>
     </message>
     <message>
-      <location filename="../folderedit.cpp" line="60"/>
+      <location filename="../folderedit.cpp" line="42"/>
       <source>Add Folder</source>
       <translation>ফোল্ডার সংযোজন করুন</translation>
     </message>
@@ -95,136 +95,141 @@
   <context>
     <name>MainWindow</name>
     <message>
-      <location filename="../mainwindow.ui" line="30"/>
-      <location filename="../mainwindow.ui" line="912"/>
+      <location filename="../mainwindow.ui" line="34"/>
+      <location filename="../mainwindow.ui" line="926"/>
       <source>New</source>
       <translation>নতুন</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="37"/>
-      <location filename="../mainwindow.cpp" line="440"/>
+      <location filename="../mainwindow.ui" line="41"/>
+      <location filename="../mainwindow.cpp" line="432"/>
       <source>Open</source>
       <translation>ওপেন</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="44"/>
-      <location filename="../mainwindow.ui" line="928"/>
+      <location filename="../mainwindow.ui" line="48"/>
+      <location filename="../mainwindow.ui" line="942"/>
       <source>Save</source>
       <translation>সংরক্ষণ করুন</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="51"/>
-      <location filename="../mainwindow.cpp" line="465"/>
+      <location filename="../mainwindow.ui" line="55"/>
+      <location filename="../mainwindow.cpp" line="460"/>
       <source>Save As</source>
       <translation>এইরূপে সংরক্ষণ করুন</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="91"/>
+      <location filename="../mainwindow.ui" line="95"/>
       <source>About</source>
       <translation>সম্পর্কে</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="104"/>
+      <location filename="../mainwindow.ui" line="108"/>
       <source>Main</source>
       <translation>প্রধান</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="192"/>
+      <location filename="../mainwindow.ui" line="196"/>
       <source>Pieces</source>
       <translation>ঘুঁটিগুলি</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="151"/>
+      <location filename="../mainwindow.ui" line="155"/>
       <source>Created by</source>
       <translation>সৃষ্টি করেছেন</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="212"/>
+      <location filename="../mainwindow.ui" line="216"/>
       <source>Piece size</source>
       <translation>টুকরা আকার</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="202"/>
+      <location filename="../mainwindow.ui" line="206"/>
       <source>Publisher</source>
       <translation>প্রকাশক</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="233"/>
+      <location filename="../mainwindow.ui" line="237"/>
       <source>Name</source>
       <translation>নাম</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="117"/>
+      <location filename="../mainwindow.ui" line="121"/>
       <source>Private torrent</source>
       <translation>প্রাইভেট টরেন্ট</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="219"/>
+      <location filename="../mainwindow.ui" line="223"/>
       <source>URL</source>
       <translation>ইউআরএল</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="226"/>
+      <location filename="../mainwindow.ui" line="230"/>
       <source>Date created</source>
       <translation>তৈরিকৃত তারিখ</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="240"/>
+      <location filename="../mainwindow.ui" line="244"/>
       <source>Hash</source>
       <translation>হ্যাশ</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="314"/>
+      <location filename="../mainwindow.ui" line="305"/>
+      <source>Source</source>
+      <translation type="unfinished">Source</translation>
+    </message>
+    <message>
+      <location filename="../mainwindow.ui" line="328"/>
       <source>Magnet link</source>
       <translation type="unfinished">Magnet link</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="368"/>
+      <location filename="../mainwindow.ui" line="382"/>
       <source>Comment</source>
       <translation>মন্তব্য</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="386"/>
+      <location filename="../mainwindow.ui" line="400"/>
       <source>Trackers</source>
       <translation>ট্রাকার</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="406"/>
+      <location filename="../mainwindow.ui" line="420"/>
       <source>Files</source>
       <translation>ফাইল</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="433"/>
+      <location filename="../mainwindow.ui" line="447"/>
       <source>Add files</source>
       <translation>ফাইল যোগ করুন</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="449"/>
+      <location filename="../mainwindow.ui" line="463"/>
       <source>Add folder</source>
       <translation>ফোল্ডার সংযোজন করুন</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="465"/>
+      <location filename="../mainwindow.ui" line="479"/>
       <source>Reload files list from current torrent data</source>
       <translation>বর্তমান টরেন্ট ডেটা থেকে ফাইল তালিকা পুনরায় লোড করুন</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="504"/>
+      <location filename="../mainwindow.ui" line="518"/>
       <source>Move file up</source>
       <translation>ফাইল উপরে স্থানান্তর</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="520"/>
+      <location filename="../mainwindow.ui" line="534"/>
       <source>Move file down</source>
       <translation>ফাইলের নীচে নামান</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="540"/>
+      <location filename="../mainwindow.ui" line="554"/>
       <source>Filter by </source>
       <translation>দ্বারা ফিল্টার </translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="547"/>
+      <location filename="../mainwindow.ui" line="561"/>
       <source>&lt;html&gt;
   &lt;head/&gt;
   &lt;body&gt;
@@ -245,220 +250,220 @@
       <translation>&lt;html&gt;&lt;head/&gt; &lt;body&gt;&lt;p&gt;&lt;b&gt;নামটি&lt;/b&gt;&lt;/p&gt; &lt;p style="margin-left: 20px"&gt; ফাইল নামের বর্ধিতাংশ ঠিক প্যাটার্ন সঙ্গে সমান&lt;/p&gt; &lt;br/&gt; &lt;p&gt;&lt;b&gt;বা&lt;/b&gt;&lt;/p&gt; &lt;p style="margin-left: 20px"&gt; চিহ্নের পর সাম্প্রতিক আসলে প্যাটার্ন সঙ্গে সমান পয়েন্ট, archive.tar.gz জন্য 'gz' যেমন হবে&lt;/p&gt; &lt;br/&gt; &lt;p&gt;&lt;b&gt;ওয়াইল্ডকার্ডসমূহ&lt;/b&gt;&lt;/p&gt; &lt;p style="margin-left: 20px"&gt; ফাইল নামের বর্ধিতাংশ ফাইলের সাথে globbing সাথে মিলে কোথায় '?' এক কোন প্রতীক ও ' *' কোন সংখ্যা কোন চিহ্ন&lt;/p&gt; &lt;br/&gt; &lt;p&gt;&lt;b&gt;নিয়মিত  মত প্রকাশের স্বাধীনতার&lt;/b&gt;&lt;/p&gt; &lt;p style="margin-left: 20px"&gt; সম্পূর্ণ ফাইলের পথটি পার্ল-এর মত রেগুলার এক্সপ্রেশন ম্যাচ&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="566"/>
+      <location filename="../mainwindow.ui" line="580"/>
       <source>name</source>
       <translation>নাম</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="571"/>
+      <location filename="../mainwindow.ui" line="585"/>
       <source>extension</source>
       <translation>প্রসার</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="576"/>
+      <location filename="../mainwindow.ui" line="590"/>
       <source>wildcards</source>
       <translation>ওয়াইল্ডকার্ডসমূহ</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="581"/>
+      <location filename="../mainwindow.ui" line="595"/>
       <source>regular expression</source>
       <translation>রেগুলার এক্সপ্রেশন</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="599"/>
+      <location filename="../mainwindow.ui" line="613"/>
       <source>Filter files</source>
       <translation>ফিল্টার ফাইল</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="694"/>
+      <location filename="../mainwindow.ui" line="708"/>
       <source>Torrent root folder </source>
       <translation>টরেন্ট রুট ফোল্ডার </translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="707"/>
+      <location filename="../mainwindow.ui" line="721"/>
       <source>Tree</source>
       <translation>ট্রি</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="718"/>
+      <location filename="../mainwindow.ui" line="732"/>
       <source>Add tree item</source>
       <translation>ট্রি আইটেম যোগ করুন</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="750"/>
+      <location filename="../mainwindow.ui" line="764"/>
       <source>Move list item up</source>
       <translation>তালিকার আইটেম উপরে সরান</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="766"/>
+      <location filename="../mainwindow.ui" line="780"/>
       <source>Move list item down</source>
       <translation>তালিকার আইটেমটি নিচে সরান</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="782"/>
+      <location filename="../mainwindow.ui" line="796"/>
       <source>Find</source>
       <translation>খুঁজুন</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="798"/>
+      <location filename="../mainwindow.ui" line="812"/>
       <source>Replace</source>
       <translation>প্রতিস্থাপন করুন</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="900"/>
+      <location filename="../mainwindow.ui" line="914"/>
       <source>File</source>
       <translation>ফাইল</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="915"/>
+      <location filename="../mainwindow.ui" line="929"/>
       <source>Ctrl+N</source>
       <translation>Ctrl+N</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="920"/>
+      <location filename="../mainwindow.ui" line="934"/>
       <source>Open...</source>
       <translation>খুলুন...</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="923"/>
+      <location filename="../mainwindow.ui" line="937"/>
       <source>Ctrl+O</source>
       <translation>Ctrl+O</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="931"/>
+      <location filename="../mainwindow.ui" line="945"/>
       <source>Ctrl+S</source>
       <translation>Ctrl+S</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="936"/>
+      <location filename="../mainwindow.ui" line="950"/>
       <source>Save As...</source>
       <translation>নতুন ভাবে সংরক্ষণ করুন...</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="939"/>
+      <location filename="../mainwindow.ui" line="953"/>
       <source>Ctrl+Shift+S</source>
       <translation>Ctrl+Shift+S</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="944"/>
+      <location filename="../mainwindow.ui" line="958"/>
       <source>About...</source>
       <translation>সম্পর্কিত কথা...</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="65"/>
+      <location filename="../mainwindow.ui" line="69"/>
       <source>Coding</source>
       <translation>কোডিং</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="417"/>
+      <location filename="../mainwindow.ui" line="431"/>
       <source>Calculate pieces hashes</source>
       <translation>টুকরা হ্যাশগুলি গণনা করুন</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="488"/>
+      <location filename="../mainwindow.ui" line="502"/>
       <source>Remove selected files</source>
       <translation>নির্বাচিত ফাইলসমূহ অপসারণ করুন</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="648"/>
+      <location filename="../mainwindow.ui" line="662"/>
       <source>Piece size </source>
       <translation>টুকরা আকার </translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="331"/>
-      <location filename="../mainwindow.ui" line="665"/>
+      <location filename="../mainwindow.ui" line="345"/>
+      <location filename="../mainwindow.ui" line="679"/>
       <source>Total size </source>
       <translation>মোট আকার </translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="734"/>
+      <location filename="../mainwindow.ui" line="748"/>
       <source>Delete selected tree items</source>
       <translation>নির্বাচিত ট্রি আইটেমগুলি মুছুন</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="834"/>
+      <location filename="../mainwindow.ui" line="848"/>
       <source>Raw</source>
       <translation>কাঁচা</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="207"/>
+      <location filename="../mainwindow.cpp" line="1466"/>
       <source>Need to calculate piece hashes</source>
       <translation>টুকরা হ্যাশ গণনা করা প্রয়োজন</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="208"/>
+      <location filename="../mainwindow.cpp" line="1467"/>
       <source>Please wait</source>
       <translation>অনুগ্রহ করে অপেক্ষা করুন</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="1405"/>
+      <location filename="../mainwindow.cpp" line="1449"/>
       <source>Auto</source>
       <translation>স্বতস্ফূর্তভাবে</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="1409"/>
+      <location filename="../mainwindow.cpp" line="1462"/>
       <source>Path</source>
       <translation>প্যাথ</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="1409"/>
+      <location filename="../mainwindow.cpp" line="1462"/>
       <source>Size</source>
       <translation>আকার</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="188"/>
+      <location filename="../mainwindow.cpp" line="1457"/>
       <source>Torrents (*.torrent)</source>
       <translation>টরেন্ট (*.torrent)</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="189"/>
+      <location filename="../mainwindow.cpp" line="1458"/>
       <source>uTorrent resume files (*.dat)</source>
       <translation>uTorrent ফাইল (*.dat) পুনরায় শুরু করুন</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="1409"/>
+      <location filename="../mainwindow.cpp" line="1462"/>
       <source># Pieces</source>
       <translation># টুকরা</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="417"/>
-      <location filename="../mainwindow.cpp" line="976"/>
+      <location filename="../mainwindow.cpp" line="407"/>
+      <location filename="../mainwindow.cpp" line="1006"/>
       <source>Error</source>
       <translation>ত্রুটি</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="417"/>
+      <location filename="../mainwindow.cpp" line="407"/>
       <source>Can't open file</source>
       <translation>ফাইলটি খোলা যাচ্ছে না</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="743"/>
-      <location filename="../mainwindow.cpp" line="747"/>
-      <location filename="../mainwindow.cpp" line="757"/>
+      <location filename="../mainwindow.cpp" line="751"/>
+      <location filename="../mainwindow.cpp" line="755"/>
+      <location filename="../mainwindow.cpp" line="765"/>
       <source>Warning</source>
       <translation>সতর্কতা</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="721"/>
+      <location filename="../mainwindow.cpp" line="724"/>
       <source>Torrent root folder is not set</source>
       <translation>টরেন্ট রুট ফোল্ডারটি সেট করা নেই</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="460"/>
-      <location filename="../mainwindow.cpp" line="1230"/>
-      <location filename="../mainwindow.cpp" line="1238"/>
-      <location filename="../mainwindow.cpp" line="1249"/>
+      <location filename="../mainwindow.cpp" line="454"/>
+      <location filename="../mainwindow.cpp" line="1268"/>
+      <location filename="../mainwindow.cpp" line="1276"/>
+      <location filename="../mainwindow.cpp" line="1285"/>
       <source>Can't save file</source>
       <translation>ফাইল সংরক্ষণ করা যাবে না</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="460"/>
-      <location filename="../mainwindow.cpp" line="1230"/>
+      <location filename="../mainwindow.cpp" line="454"/>
+      <location filename="../mainwindow.cpp" line="1268"/>
       <source>BEncoded data is not valid</source>
       <translation>BEncoded তথ্য বৈধ নয়</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="722"/>
+      <location filename="../mainwindow.cpp" line="725"/>
       <source>Path to files on the disk in not known. Torrent can be generated only from fully downloaded files.
 
 If you want to edit file list in the current torrent you need to set torrent root folder. The torrent root folder is a folder where all files can be located on the disk. Actual file path on the disk is torrent root folder with relative path from torrent file. If something files are missing then torrent can't be generated.
@@ -471,79 +476,79 @@ Do you want to set torrent root folder and try again?</source>
 আপনি টরেন্ট রুট ফোল্ডার সেট করতে এবং আবার চেষ্টা করতে চান?</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="743"/>
+      <location filename="../mainwindow.cpp" line="752"/>
       <source>The filesystem root can't be used as a torrent root folder.</source>
       <translation type="unfinished">The filesystem root can't be used as a torrent root folder.</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="747"/>
+      <location filename="../mainwindow.cpp" line="755"/>
       <source>The torrent root folder is not set.</source>
       <translation type="unfinished">The torrent root folder is not set.</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="757"/>
+      <location filename="../mainwindow.cpp" line="765"/>
       <source>The torrent root folder is not common.</source>
       <translation>টরেন্টের মুল ফোল্ডার সাধারণ নয়।</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="816"/>
+      <location filename="../mainwindow.cpp" line="832"/>
       <source>Add File</source>
       <translation>ফাইল যোগ করুন</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="837"/>
+      <location filename="../mainwindow.cpp" line="854"/>
       <source>Add Folder</source>
       <translation>ফোল্ডার সংযোজন করুন</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="983"/>
+      <location filename="../mainwindow.cpp" line="1013"/>
       <source>Line: %1 of %2 Col: %3</source>
       <translatorcomment>Do not touch %1 it must be as is.</translatorcomment>
       <translation>Line: %1 of %2 Col: %3</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="1205"/>
+      <location filename="../mainwindow.cpp" line="1243"/>
       <source>Error on %1 line: %2</source>
       <translatorcomment>Do not touch %1 it must be as is.</translatorcomment>
       <translation>ত্রুটি ধরা পড়েছে %1 line: %2</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="1346"/>
+      <location filename="../mainwindow.cpp" line="1388"/>
       <source>B</source>
       <translation>B</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="1350"/>
+      <location filename="../mainwindow.cpp" line="1392"/>
       <source>KiB</source>
       <translation>কে-বি</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="1354"/>
+      <location filename="../mainwindow.cpp" line="1396"/>
       <source>MiB</source>
       <translation>এম-বি</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="1358"/>
+      <location filename="../mainwindow.cpp" line="1400"/>
       <source>GiB</source>
       <translation>জি-বি</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="1362"/>
+      <location filename="../mainwindow.cpp" line="1404"/>
       <source>TiB</source>
       <translation>টি-বি</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="1380"/>
+      <location filename="../mainwindow.cpp" line="1423"/>
       <source>Save file</source>
       <translation>ফাইল সংরক্ষণ করুন</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="1381"/>
+      <location filename="../mainwindow.cpp" line="1424"/>
       <source>Untitled</source>
       <translation>শিরোনামহীন</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="1382"/>
+      <location filename="../mainwindow.cpp" line="1425"/>
       <source>Save file "%1"?</source>
       <translatorcomment>Do not touch %1 it must be as is.</translatorcomment>
       <translation>ফাইল "%1" সংরক্ষণ করুন?</translation>
@@ -552,27 +557,27 @@ Do you want to set torrent root folder and try again?</source>
   <context>
     <name>QObject</name>
     <message>
-      <location filename="../bencode.cpp" line="219"/>
+      <location filename="../bencode.cpp" line="206"/>
       <source>list</source>
       <translation>তালিকা</translation>
     </message>
     <message>
-      <location filename="../bencode.cpp" line="220"/>
+      <location filename="../bencode.cpp" line="209"/>
       <source>dictionary</source>
       <translation>অভিধান</translation>
     </message>
     <message>
-      <location filename="../bencode.cpp" line="221"/>
+      <location filename="../bencode.cpp" line="212"/>
       <source>integer</source>
       <translation>পূর্ণ সংখ্যা</translation>
     </message>
     <message>
-      <location filename="../bencode.cpp" line="222"/>
+      <location filename="../bencode.cpp" line="215"/>
       <source>string</source>
       <translation>দড়ি</translation>
     </message>
     <message>
-      <location filename="../bencode.cpp" line="223"/>
+      <location filename="../bencode.cpp" line="218"/>
       <source>invalid</source>
       <translation>অবৈধ</translation>
     </message>
@@ -580,102 +585,102 @@ Do you want to set torrent root folder and try again?</source>
   <context>
     <name>SearchDlg</name>
     <message>
-      <location filename="../searchdlg.ui" line="27"/>
+      <location filename="../searchdlg.ui" line="31"/>
       <source>Key</source>
       <translation>চাবি</translation>
     </message>
     <message>
-      <location filename="../searchdlg.ui" line="39"/>
-      <location filename="../searchdlg.ui" line="96"/>
+      <location filename="../searchdlg.ui" line="43"/>
+      <location filename="../searchdlg.ui" line="100"/>
       <source>Match case</source>
       <translation>মিল খুঁজুন</translation>
     </message>
     <message>
-      <location filename="../searchdlg.ui" line="46"/>
-      <location filename="../searchdlg.ui" line="103"/>
+      <location filename="../searchdlg.ui" line="50"/>
+      <location filename="../searchdlg.ui" line="107"/>
       <source>Exact match</source>
       <translation>সঠিক মিল</translation>
     </message>
     <message>
-      <location filename="../searchdlg.ui" line="56"/>
-      <location filename="../searchdlg.ui" line="113"/>
+      <location filename="../searchdlg.ui" line="60"/>
+      <location filename="../searchdlg.ui" line="117"/>
       <source>Wildcards</source>
       <translation>ওয়াইল্ডকার্ডসমূহ</translation>
     </message>
     <message>
-      <location filename="../searchdlg.ui" line="63"/>
-      <location filename="../searchdlg.ui" line="120"/>
+      <location filename="../searchdlg.ui" line="67"/>
+      <location filename="../searchdlg.ui" line="124"/>
       <source>Regular expression</source>
       <translation>রেগুলার এক্সপ্রেশন</translation>
     </message>
     <message>
-      <location filename="../searchdlg.ui" line="84"/>
+      <location filename="../searchdlg.ui" line="88"/>
       <source>Value</source>
       <translation>মান</translation>
     </message>
     <message>
-      <location filename="../searchdlg.ui" line="127"/>
+      <location filename="../searchdlg.ui" line="131"/>
       <source>Hex</source>
       <translation>হেক্স</translation>
     </message>
     <message>
-      <location filename="../searchdlg.ui" line="154"/>
+      <location filename="../searchdlg.ui" line="158"/>
       <source>Replace value with</source>
       <translation>মান দ্বারা প্রতিস্থাপন করুন</translation>
     </message>
     <message>
-      <location filename="../searchdlg.ui" line="164"/>
+      <location filename="../searchdlg.ui" line="168"/>
       <source>hex</source>
       <translation>হেক্স</translation>
     </message>
     <message>
-      <location filename="../searchdlg.ui" line="176"/>
+      <location filename="../searchdlg.ui" line="180"/>
       <source>Direction</source>
       <translation>দিক</translation>
     </message>
     <message>
-      <location filename="../searchdlg.ui" line="182"/>
+      <location filename="../searchdlg.ui" line="186"/>
       <source>Up</source>
       <translation>উপরে</translation>
     </message>
     <message>
-      <location filename="../searchdlg.ui" line="189"/>
+      <location filename="../searchdlg.ui" line="193"/>
       <source>Down</source>
       <translation>নিচে</translation>
     </message>
     <message>
-      <location filename="../searchdlg.ui" line="204"/>
+      <location filename="../searchdlg.ui" line="208"/>
       <source>Replace All</source>
       <translation>সমস্ত প্রতিস্থাপন</translation>
     </message>
     <message>
-      <location filename="../searchdlg.ui" line="224"/>
+      <location filename="../searchdlg.ui" line="228"/>
       <source>Find Next</source>
       <translation>পরবর্তী উপস্থিত অনুসন্ধান</translation>
     </message>
     <message>
-      <location filename="../searchdlg.ui" line="248"/>
-      <location filename="../searchdlg.cpp" line="63"/>
+      <location filename="../searchdlg.ui" line="252"/>
+      <location filename="../searchdlg.cpp" line="51"/>
       <source>Replace</source>
       <translation>প্রতিস্থাপন করুন</translation>
     </message>
     <message>
-      <location filename="../searchdlg.ui" line="231"/>
+      <location filename="../searchdlg.ui" line="235"/>
       <source>Close</source>
       <translation>বন্ধ করুন</translation>
     </message>
     <message>
-      <location filename="../searchdlg.cpp" line="63"/>
+      <location filename="../searchdlg.cpp" line="51"/>
       <source>Find</source>
       <translation>খুঁজুন</translation>
     </message>
     <message>
-      <location filename="../searchdlg.cpp" line="164"/>
+      <location filename="../searchdlg.cpp" line="151"/>
       <source>No matches found</source>
       <translation>কোন মিল খুঁজে পাওয়া যায় নি</translation>
     </message>
     <message numerus="yes">
-      <location filename="../searchdlg.cpp" line="169"/>
+      <location filename="../searchdlg.cpp" line="156"/>
       <source>%1 of %n match(es)</source>
       <translatorcomment>Do not touch %1 it must be as is. Make translations for both singular and plural forms. </translatorcomment>
       <translation>
@@ -684,7 +689,7 @@ Do you want to set torrent root folder and try again?</source>
       </translation>
     </message>
     <message numerus="yes">
-      <location filename="../searchdlg.cpp" line="222"/>
+      <location filename="../searchdlg.cpp" line="213"/>
       <source>%n value(s) was(were) replaced</source>
       <translatorcomment>Do not touch %n it must be as is. Do not touch HTML tags. It must be as is. Also check that autocorrection is disabled in your editor. Be care with trailing and leading spaces.</translatorcomment>
       <translation>
@@ -696,19 +701,19 @@ Do you want to set torrent root folder and try again?</source>
   <context>
     <name>TableView</name>
     <message>
-      <location filename="../tableview.cpp" line="58"/>
-      <location filename="../tableview.cpp" line="181"/>
+      <location filename="../tableview.cpp" line="43"/>
+      <location filename="../tableview.cpp" line="164"/>
       <source>Copy with Size</source>
       <translation type="unfinished">Copy with Size</translation>
     </message>
     <message>
-      <location filename="../tableview.cpp" line="64"/>
-      <location filename="../tableview.cpp" line="182"/>
+      <location filename="../tableview.cpp" line="49"/>
+      <location filename="../tableview.cpp" line="165"/>
       <source>Copy Filename</source>
       <translation type="unfinished">Copy Filename</translation>
     </message>
     <message>
-      <location filename="../tableview.cpp" line="180"/>
+      <location filename="../tableview.cpp" line="163"/>
       <source>Copy</source>
       <translation type="unfinished">Copy</translation>
     </message>
@@ -716,12 +721,12 @@ Do you want to set torrent root folder and try again?</source>
   <context>
     <name>UrlEdit</name>
     <message>
-      <location filename="../urledit.cpp" line="82"/>
+      <location filename="../urledit.cpp" line="65"/>
       <source>Copy</source>
       <translation type="unfinished">Copy</translation>
     </message>
     <message>
-      <location filename="../urledit.cpp" line="83"/>
+      <location filename="../urledit.cpp" line="66"/>
       <source>Open in internet browser</source>
       <translation>ইন্টারনেট ব্রাউজারে খুলুন</translation>
     </message>
@@ -729,13 +734,13 @@ Do you want to set torrent root folder and try again?</source>
   <context>
     <name>Worker</name>
     <message>
-      <location filename="../mainwindow.cpp" line="115"/>
+      <location filename="../mainwindow.cpp" line="97"/>
       <source>Can't open %1</source>
       <translatorcomment>Do not touch %1 it must be as is.</translatorcomment>
       <translation>%1 খোলা যাবে না</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="152"/>
+      <location filename="../mainwindow.cpp" line="134"/>
       <source>Can't read from %1</source>
       <translatorcomment>Do not touch %1 it must be as is.</translatorcomment>
       <translation>%1 থেকে পড়া যায় না</translation>

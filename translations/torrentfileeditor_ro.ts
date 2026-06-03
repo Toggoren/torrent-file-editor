@@ -4,41 +4,41 @@
   <context>
     <name>AboutDlg</name>
     <message>
-      <location filename="../aboutdlg.ui" line="162"/>
+      <location filename="../aboutdlg.ui" line="176"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Author: Ivan Romanov &lt;a href="mailto:drizt72@zoho.eu"&gt;&lt;span style=" text-decoration: underline; color:#0057ae;"&gt;drizt72@zoho.eu&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;License: GNU General Public License v3.0 or later&lt;/p&gt;&lt;p&gt;Home Page: &lt;a href="https://torrent-file-editor.github.io"&gt;&lt;span style=" text-decoration: underline; color:#0057ae;"&gt;https://torrent-file-editor.github.io&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Sources: &lt;a href="https://github.com/torrent-file-editor/torrent-file-editor"&gt;&lt;span style=" text-decoration: underline; color:#0057ae;"&gt;https://github.com/torrent-file-editor/torrent-file-editor&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Thanks to &lt;a href="https://rutracker.org/forum/profile.php?mode=viewprofile&amp;amp;u=8465051"&gt;&lt;span style=" text-decoration: underline; color:#0057ae;"&gt;ALEX Krays&lt;/span&gt;&lt;/a&gt; for application icon&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
       <translatorcomment>Do not touch HTML tags. It must be as is. Also check that autocorrection is disabled in your editor. Be care with trailing and leading spaces.</translatorcomment>
       <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Autor: Ivan Romanov &lt;a href="mailto:drizt72@zoho.eu"&gt;&lt;span style=" text-decoration: underline; color:#0057ae;"&gt;drizt72@zoho.eu&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;License: Licenta Publică Generală GNU v3.0 sau mai actuală&lt;/p&gt;&lt;p&gt;Pagina Principală: &lt;a href="http://sourceforge.net/projects/torrent-file-editor/"&gt;&lt;span style=" text-decoration: underline; color:#0057ae;"&gt;http://sourceforge.net/projects/torrent-file-editor/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Surse: &lt;a href="http://github.com/drizt/torrent-file-editor"&gt;&lt;span style=" text-decoration: underline; color:#0057ae;"&gt;http://github.com/drizt/torrent-file-editor&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Mulțumesc lui &lt;a href="http://rutracker.org/forum/profile.php?mode=viewprofile&amp;amp;u=8465051"&gt;&lt;span style=" text-decoration: underline; color:#0057ae;"&gt;ALEX Krays&lt;/span&gt;&lt;/a&gt; pentru icoana aplicația&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-      <location filename="../aboutdlg.ui" line="39"/>
+      <location filename="../aboutdlg.ui" line="44"/>
       <source>&lt;h3&gt;Coffee for Developer&lt;/h3&gt;</source>
       <translatorcomment>Do not touch HTML tags. It must be as is. Also check that autocorrection is disabled in your editor. Be care with trailing and leading spaces.</translatorcomment>
       <translation type="unfinished">&lt;h3&gt;Coffee for Developer&lt;/h3&gt;</translation>
     </message>
     <message>
-      <location filename="../aboutdlg.ui" line="104"/>
+      <location filename="../aboutdlg.ui" line="118"/>
       <source>Check for Update</source>
       <translation>Verificați pentru actualizare</translation>
     </message>
     <message>
-      <location filename="../aboutdlg.cpp" line="167"/>
+      <location filename="../aboutdlg.cpp" line="148"/>
       <source>About %1</source>
       <translatorcomment>Do not touch %1 it must be as is.</translatorcomment>
       <translation>Despre %1</translation>
     </message>
     <message>
-      <location filename="../aboutdlg.cpp" line="222"/>
+      <location filename="../aboutdlg.cpp" line="205"/>
       <source>Something went wrong</source>
       <translation>Ceva nu a mers bine</translation>
     </message>
     <message>
-      <location filename="../aboutdlg.cpp" line="226"/>
+      <location filename="../aboutdlg.cpp" line="209"/>
       <source>New version &lt;a href="%2"&gt;%1&lt;/a&gt; has been detected</source>
       <translatorcomment>Do not touch %1 it must be as is. Do not touch HTML tags. It must be as is. Also check that autocorrection is disabled in your editor. Be care with trailing and leading spaces.</translatorcomment>
       <translation>Nouă versiune &lt;a href="%2"&gt;%1&lt;/a&gt; a fost detectată</translation>
     </message>
     <message>
-      <location filename="../aboutdlg.cpp" line="229"/>
+      <location filename="../aboutdlg.cpp" line="211"/>
       <source>The latest version is installed</source>
       <translation>Ultima versiune a fost instalată</translation>
     </message>
@@ -46,22 +46,22 @@
   <context>
     <name>BencodeModel</name>
     <message>
-      <location filename="../bencodemodel.cpp" line="770"/>
+      <location filename="../bencodemodel.cpp" line="796"/>
       <source>Name</source>
       <translation>Nume</translation>
     </message>
     <message>
-      <location filename="../bencodemodel.cpp" line="771"/>
+      <location filename="../bencodemodel.cpp" line="799"/>
       <source>Type</source>
       <translation>Tip</translation>
     </message>
     <message>
-      <location filename="../bencodemodel.cpp" line="772"/>
+      <location filename="../bencodemodel.cpp" line="802"/>
       <source>Hex</source>
       <translation>Hex</translation>
     </message>
     <message>
-      <location filename="../bencodemodel.cpp" line="773"/>
+      <location filename="../bencodemodel.cpp" line="805"/>
       <source>Value</source>
       <translation>Valoare</translation>
     </message>
@@ -69,12 +69,12 @@
   <context>
     <name>DateWidget</name>
     <message>
-      <location filename="../datewidget.cpp" line="153"/>
+      <location filename="../datewidget.cpp" line="141"/>
       <source>Clean</source>
       <translation>Elimină</translation>
     </message>
     <message>
-      <location filename="../datewidget.cpp" line="154"/>
+      <location filename="../datewidget.cpp" line="142"/>
       <source>Show calendar</source>
       <translation>Arată calandar</translation>
     </message>
@@ -82,12 +82,12 @@
   <context>
     <name>FolderEdit</name>
     <message>
-      <location filename="../folderedit.cpp" line="71"/>
+      <location filename="../folderedit.cpp" line="54"/>
       <source>Choose folder</source>
       <translation>Alege fișierul</translation>
     </message>
     <message>
-      <location filename="../folderedit.cpp" line="60"/>
+      <location filename="../folderedit.cpp" line="42"/>
       <source>Add Folder</source>
       <translation>Adăugare dosar</translation>
     </message>
@@ -95,136 +95,141 @@
   <context>
     <name>MainWindow</name>
     <message>
-      <location filename="../mainwindow.ui" line="30"/>
-      <location filename="../mainwindow.ui" line="912"/>
+      <location filename="../mainwindow.ui" line="34"/>
+      <location filename="../mainwindow.ui" line="926"/>
       <source>New</source>
       <translation>Nou</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="37"/>
-      <location filename="../mainwindow.cpp" line="440"/>
+      <location filename="../mainwindow.ui" line="41"/>
+      <location filename="../mainwindow.cpp" line="432"/>
       <source>Open</source>
       <translation>Deschide</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="44"/>
-      <location filename="../mainwindow.ui" line="928"/>
+      <location filename="../mainwindow.ui" line="48"/>
+      <location filename="../mainwindow.ui" line="942"/>
       <source>Save</source>
       <translation>Salvați</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="51"/>
-      <location filename="../mainwindow.cpp" line="465"/>
+      <location filename="../mainwindow.ui" line="55"/>
+      <location filename="../mainwindow.cpp" line="460"/>
       <source>Save As</source>
       <translation>Salvați ca</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="91"/>
+      <location filename="../mainwindow.ui" line="95"/>
       <source>About</source>
       <translation>Despre</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="104"/>
+      <location filename="../mainwindow.ui" line="108"/>
       <source>Main</source>
       <translation>Principal</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="192"/>
+      <location filename="../mainwindow.ui" line="196"/>
       <source>Pieces</source>
       <translation>Părți</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="151"/>
+      <location filename="../mainwindow.ui" line="155"/>
       <source>Created by</source>
       <translation>Creat de</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="212"/>
+      <location filename="../mainwindow.ui" line="216"/>
       <source>Piece size</source>
       <translation>Mărimea Pieselor</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="202"/>
+      <location filename="../mainwindow.ui" line="206"/>
       <source>Publisher</source>
       <translation>Producător</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="233"/>
+      <location filename="../mainwindow.ui" line="237"/>
       <source>Name</source>
       <translation>Nume</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="117"/>
+      <location filename="../mainwindow.ui" line="121"/>
       <source>Private torrent</source>
       <translation>Torrent privat</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="219"/>
+      <location filename="../mainwindow.ui" line="223"/>
       <source>URL</source>
       <translation>URL</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="226"/>
+      <location filename="../mainwindow.ui" line="230"/>
       <source>Date created</source>
       <translation>Data creării</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="240"/>
+      <location filename="../mainwindow.ui" line="244"/>
       <source>Hash</source>
       <translation>Hash</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="314"/>
+      <location filename="../mainwindow.ui" line="305"/>
+      <source>Source</source>
+      <translation type="unfinished">Source</translation>
+    </message>
+    <message>
+      <location filename="../mainwindow.ui" line="328"/>
       <source>Magnet link</source>
       <translation>Link magnet</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="368"/>
+      <location filename="../mainwindow.ui" line="382"/>
       <source>Comment</source>
       <translation>Comentariu</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="386"/>
+      <location filename="../mainwindow.ui" line="400"/>
       <source>Trackers</source>
       <translation>Contoare</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="406"/>
+      <location filename="../mainwindow.ui" line="420"/>
       <source>Files</source>
       <translation>Fișiere</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="433"/>
+      <location filename="../mainwindow.ui" line="447"/>
       <source>Add files</source>
       <translation>Adăugați fișiere</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="449"/>
+      <location filename="../mainwindow.ui" line="463"/>
       <source>Add folder</source>
       <translation>Adăugați dosar</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="465"/>
+      <location filename="../mainwindow.ui" line="479"/>
       <source>Reload files list from current torrent data</source>
       <translation>Reîncărcați lista de fișiere din datele actuale ale torrent-ului</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="504"/>
+      <location filename="../mainwindow.ui" line="518"/>
       <source>Move file up</source>
       <translation>Mutați fișierele în sus</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="520"/>
+      <location filename="../mainwindow.ui" line="534"/>
       <source>Move file down</source>
       <translation>Mutați fișierele în jos</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="540"/>
+      <location filename="../mainwindow.ui" line="554"/>
       <source>Filter by </source>
       <translation>Filtrează după </translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="547"/>
+      <location filename="../mainwindow.ui" line="561"/>
       <source>&lt;html&gt;
   &lt;head/&gt;
   &lt;body&gt;
@@ -245,220 +250,220 @@
       <translation>&lt;html&gt;  &lt;head/&gt;  &lt;body&gt;    &lt;p&gt;&lt;b&gt;nume&lt;/b&gt;&lt;/p&gt;    &lt;p style="margin-left: 20px"&gt;numele fișierului cu extensie este la fel cu moddelul&lt;/p&gt;    &lt;br/&gt;    &lt;p&gt;&lt;b&gt;extensie&lt;/b&gt;&lt;/p&gt;    &lt;p style="margin-left: 20px"&gt;spre exemplu, dacă simbolurile aflate după ultimul punct sunt la fel cu modelul arhivei 'archive.tar.gz' ar fi 'gz'&lt;/p&gt;    &lt;br/&gt;    &lt;p&gt;&lt;b&gt;wildcards&lt;/b&gt;&lt;/p&gt;    &lt;p style="margin-left: 20px"&gt;numele fișierului cu extensii se potrivește cu fișierul unde '?' este unul orice simbol și '*' este orice număr de simboluri&lt;/p&gt;    &lt;br/&gt;    &lt;p&gt;&lt;b&gt;expresii normale&lt;/b&gt;&lt;/p&gt;    &lt;p style="margin-left: 20px"&gt;calea completă a fișierelor se potrivește cu expresia regulată tip Perl&lt;/p&gt;  &lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="566"/>
+      <location filename="../mainwindow.ui" line="580"/>
       <source>name</source>
       <translation>nume</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="571"/>
+      <location filename="../mainwindow.ui" line="585"/>
       <source>extension</source>
       <translation>extensie</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="576"/>
+      <location filename="../mainwindow.ui" line="590"/>
       <source>wildcards</source>
       <translation>metacaractere</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="581"/>
+      <location filename="../mainwindow.ui" line="595"/>
       <source>regular expression</source>
       <translation>expresii normale</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="599"/>
+      <location filename="../mainwindow.ui" line="613"/>
       <source>Filter files</source>
       <translation>Filtrează fișierele</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="694"/>
+      <location filename="../mainwindow.ui" line="708"/>
       <source>Torrent root folder </source>
       <translation>Dosarul rădăcină al torrent-ului </translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="707"/>
+      <location filename="../mainwindow.ui" line="721"/>
       <source>Tree</source>
       <translation>Arbore</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="718"/>
+      <location filename="../mainwindow.ui" line="732"/>
       <source>Add tree item</source>
       <translation>Adaugă element arbore</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="750"/>
+      <location filename="../mainwindow.ui" line="764"/>
       <source>Move list item up</source>
       <translation>Deplasează elementul din listă în sus</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="766"/>
+      <location filename="../mainwindow.ui" line="780"/>
       <source>Move list item down</source>
       <translation>Deplasează elementul din listă în jos</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="782"/>
+      <location filename="../mainwindow.ui" line="796"/>
       <source>Find</source>
       <translation>Găsește</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="798"/>
+      <location filename="../mainwindow.ui" line="812"/>
       <source>Replace</source>
       <translation>Înlocuiește</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="900"/>
+      <location filename="../mainwindow.ui" line="914"/>
       <source>File</source>
       <translation>Fișier</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="915"/>
+      <location filename="../mainwindow.ui" line="929"/>
       <source>Ctrl+N</source>
       <translation>Ctrl+N</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="920"/>
+      <location filename="../mainwindow.ui" line="934"/>
       <source>Open...</source>
       <translation>Deschide...</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="923"/>
+      <location filename="../mainwindow.ui" line="937"/>
       <source>Ctrl+O</source>
       <translation>Ctrl+O</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="931"/>
+      <location filename="../mainwindow.ui" line="945"/>
       <source>Ctrl+S</source>
       <translation>Ctrl+S</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="936"/>
+      <location filename="../mainwindow.ui" line="950"/>
       <source>Save As...</source>
       <translation>Salvați ca...</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="939"/>
+      <location filename="../mainwindow.ui" line="953"/>
       <source>Ctrl+Shift+S</source>
       <translation>Ctrl+Shift+S</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="944"/>
+      <location filename="../mainwindow.ui" line="958"/>
       <source>About...</source>
       <translation>Despre...</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="65"/>
+      <location filename="../mainwindow.ui" line="69"/>
       <source>Coding</source>
       <translation>Codificare</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="417"/>
+      <location filename="../mainwindow.ui" line="431"/>
       <source>Calculate pieces hashes</source>
       <translation>Calculați numărul de fragmente</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="488"/>
+      <location filename="../mainwindow.ui" line="502"/>
       <source>Remove selected files</source>
       <translation>Elimină fișierele selectate</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="648"/>
+      <location filename="../mainwindow.ui" line="662"/>
       <source>Piece size </source>
       <translation>Mărimea părților </translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="331"/>
-      <location filename="../mainwindow.ui" line="665"/>
+      <location filename="../mainwindow.ui" line="345"/>
+      <location filename="../mainwindow.ui" line="679"/>
       <source>Total size </source>
       <translation>Dimensiune totală </translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="734"/>
+      <location filename="../mainwindow.ui" line="748"/>
       <source>Delete selected tree items</source>
       <translation>Ștergeți elementele selectate ale arborelului</translation>
     </message>
     <message>
-      <location filename="../mainwindow.ui" line="834"/>
+      <location filename="../mainwindow.ui" line="848"/>
       <source>Raw</source>
       <translation>Brut</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="207"/>
+      <location filename="../mainwindow.cpp" line="1466"/>
       <source>Need to calculate piece hashes</source>
       <translation>Trebuie să calculați părțile fragmentelor</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="208"/>
+      <location filename="../mainwindow.cpp" line="1467"/>
       <source>Please wait</source>
       <translation>Vă rugăm așteptați</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="1405"/>
+      <location filename="../mainwindow.cpp" line="1449"/>
       <source>Auto</source>
       <translation>Automat</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="1409"/>
+      <location filename="../mainwindow.cpp" line="1462"/>
       <source>Path</source>
       <translation>Cale</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="1409"/>
+      <location filename="../mainwindow.cpp" line="1462"/>
       <source>Size</source>
       <translation>Mărime</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="188"/>
+      <location filename="../mainwindow.cpp" line="1457"/>
       <source>Torrents (*.torrent)</source>
       <translation>Torrents (*.torrent)</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="189"/>
+      <location filename="../mainwindow.cpp" line="1458"/>
       <source>uTorrent resume files (*.dat)</source>
       <translation>uTorrent reluați fișierele (*.dat)</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="1409"/>
+      <location filename="../mainwindow.cpp" line="1462"/>
       <source># Pieces</source>
       <translation># Părți</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="417"/>
-      <location filename="../mainwindow.cpp" line="976"/>
+      <location filename="../mainwindow.cpp" line="407"/>
+      <location filename="../mainwindow.cpp" line="1006"/>
       <source>Error</source>
       <translation>Eroare</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="417"/>
+      <location filename="../mainwindow.cpp" line="407"/>
       <source>Can't open file</source>
       <translation>Nu se poate deschide fișierul</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="743"/>
-      <location filename="../mainwindow.cpp" line="747"/>
-      <location filename="../mainwindow.cpp" line="757"/>
+      <location filename="../mainwindow.cpp" line="751"/>
+      <location filename="../mainwindow.cpp" line="755"/>
+      <location filename="../mainwindow.cpp" line="765"/>
       <source>Warning</source>
       <translation>Avertisment</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="721"/>
+      <location filename="../mainwindow.cpp" line="724"/>
       <source>Torrent root folder is not set</source>
       <translation>Rădăcina dosarului torrent-ului nu este setată</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="460"/>
-      <location filename="../mainwindow.cpp" line="1230"/>
-      <location filename="../mainwindow.cpp" line="1238"/>
-      <location filename="../mainwindow.cpp" line="1249"/>
+      <location filename="../mainwindow.cpp" line="454"/>
+      <location filename="../mainwindow.cpp" line="1268"/>
+      <location filename="../mainwindow.cpp" line="1276"/>
+      <location filename="../mainwindow.cpp" line="1285"/>
       <source>Can't save file</source>
       <translation>Nu se poate deschide fișierul</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="460"/>
-      <location filename="../mainwindow.cpp" line="1230"/>
+      <location filename="../mainwindow.cpp" line="454"/>
+      <location filename="../mainwindow.cpp" line="1268"/>
       <source>BEncoded data is not valid</source>
       <translation>Data BEncoded nu este validă</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="722"/>
+      <location filename="../mainwindow.cpp" line="725"/>
       <source>Path to files on the disk in not known. Torrent can be generated only from fully downloaded files.
 
 If you want to edit file list in the current torrent you need to set torrent root folder. The torrent root folder is a folder where all files can be located on the disk. Actual file path on the disk is torrent root folder with relative path from torrent file. If something files are missing then torrent can't be generated.
@@ -469,79 +474,79 @@ Dacă vrei să editezi fișiere torrent-ului actual trebuie să setezi dosarul r
 Vrei să stezi rădăcina actuală a dosarului și să încerci din nou?</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="743"/>
+      <location filename="../mainwindow.cpp" line="752"/>
       <source>The filesystem root can't be used as a torrent root folder.</source>
       <translation>Rădăcina sistemului de fișiere nu poate fi utilizată ca folder de rădăcină de torrent.</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="747"/>
+      <location filename="../mainwindow.cpp" line="755"/>
       <source>The torrent root folder is not set.</source>
       <translation>Rădăcina dosarului torrent-ului nu este setată.</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="757"/>
+      <location filename="../mainwindow.cpp" line="765"/>
       <source>The torrent root folder is not common.</source>
       <translation>Rădăcina dosarului torrent-ului nu este comună.</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="816"/>
+      <location filename="../mainwindow.cpp" line="832"/>
       <source>Add File</source>
       <translation>Adaugă fișier</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="837"/>
+      <location filename="../mainwindow.cpp" line="854"/>
       <source>Add Folder</source>
       <translation>Adaugă dosar</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="983"/>
+      <location filename="../mainwindow.cpp" line="1013"/>
       <source>Line: %1 of %2 Col: %3</source>
       <translatorcomment>Do not touch %1 it must be as is.</translatorcomment>
       <translation>Linie: %1 din %2 Col:%3</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="1205"/>
+      <location filename="../mainwindow.cpp" line="1243"/>
       <source>Error on %1 line: %2</source>
       <translatorcomment>Do not touch %1 it must be as is.</translatorcomment>
       <translation>Eroare pe %1 linia:%2</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="1346"/>
+      <location filename="../mainwindow.cpp" line="1388"/>
       <source>B</source>
       <translation>B</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="1350"/>
+      <location filename="../mainwindow.cpp" line="1392"/>
       <source>KiB</source>
       <translation>KiB</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="1354"/>
+      <location filename="../mainwindow.cpp" line="1396"/>
       <source>MiB</source>
       <translation>MiB</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="1358"/>
+      <location filename="../mainwindow.cpp" line="1400"/>
       <source>GiB</source>
       <translation>GiB</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="1362"/>
+      <location filename="../mainwindow.cpp" line="1404"/>
       <source>TiB</source>
       <translation>TiB</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="1380"/>
+      <location filename="../mainwindow.cpp" line="1423"/>
       <source>Save file</source>
       <translation>Salvează fișierul</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="1381"/>
+      <location filename="../mainwindow.cpp" line="1424"/>
       <source>Untitled</source>
       <translation>Fără titlu</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="1382"/>
+      <location filename="../mainwindow.cpp" line="1425"/>
       <source>Save file "%1"?</source>
       <translatorcomment>Do not touch %1 it must be as is.</translatorcomment>
       <translation>Salvează fișierul "%1"?</translation>
@@ -550,27 +555,27 @@ Vrei să stezi rădăcina actuală a dosarului și să încerci din nou?</transl
   <context>
     <name>QObject</name>
     <message>
-      <location filename="../bencode.cpp" line="219"/>
+      <location filename="../bencode.cpp" line="206"/>
       <source>list</source>
       <translation>listă</translation>
     </message>
     <message>
-      <location filename="../bencode.cpp" line="220"/>
+      <location filename="../bencode.cpp" line="209"/>
       <source>dictionary</source>
       <translation>dicționar</translation>
     </message>
     <message>
-      <location filename="../bencode.cpp" line="221"/>
+      <location filename="../bencode.cpp" line="212"/>
       <source>integer</source>
       <translation>număr întreg</translation>
     </message>
     <message>
-      <location filename="../bencode.cpp" line="222"/>
+      <location filename="../bencode.cpp" line="215"/>
       <source>string</source>
       <translation>șir</translation>
     </message>
     <message>
-      <location filename="../bencode.cpp" line="223"/>
+      <location filename="../bencode.cpp" line="218"/>
       <source>invalid</source>
       <translation>nu este valid</translation>
     </message>
@@ -578,102 +583,102 @@ Vrei să stezi rădăcina actuală a dosarului și să încerci din nou?</transl
   <context>
     <name>SearchDlg</name>
     <message>
-      <location filename="../searchdlg.ui" line="27"/>
+      <location filename="../searchdlg.ui" line="31"/>
       <source>Key</source>
       <translation>Cheie</translation>
     </message>
     <message>
-      <location filename="../searchdlg.ui" line="39"/>
-      <location filename="../searchdlg.ui" line="96"/>
+      <location filename="../searchdlg.ui" line="43"/>
+      <location filename="../searchdlg.ui" line="100"/>
       <source>Match case</source>
       <translation>Potrivire</translation>
     </message>
     <message>
-      <location filename="../searchdlg.ui" line="46"/>
-      <location filename="../searchdlg.ui" line="103"/>
+      <location filename="../searchdlg.ui" line="50"/>
+      <location filename="../searchdlg.ui" line="107"/>
       <source>Exact match</source>
       <translation>Potrivire exactă</translation>
     </message>
     <message>
-      <location filename="../searchdlg.ui" line="56"/>
-      <location filename="../searchdlg.ui" line="113"/>
+      <location filename="../searchdlg.ui" line="60"/>
+      <location filename="../searchdlg.ui" line="117"/>
       <source>Wildcards</source>
       <translation>Metacaractere</translation>
     </message>
     <message>
-      <location filename="../searchdlg.ui" line="63"/>
-      <location filename="../searchdlg.ui" line="120"/>
+      <location filename="../searchdlg.ui" line="67"/>
+      <location filename="../searchdlg.ui" line="124"/>
       <source>Regular expression</source>
       <translation>Expresii obișnuite</translation>
     </message>
     <message>
-      <location filename="../searchdlg.ui" line="84"/>
+      <location filename="../searchdlg.ui" line="88"/>
       <source>Value</source>
       <translation>Valoare</translation>
     </message>
     <message>
-      <location filename="../searchdlg.ui" line="127"/>
+      <location filename="../searchdlg.ui" line="131"/>
       <source>Hex</source>
       <translation>Hex</translation>
     </message>
     <message>
-      <location filename="../searchdlg.ui" line="154"/>
+      <location filename="../searchdlg.ui" line="158"/>
       <source>Replace value with</source>
       <translation>Înlocuiți vloarea cu</translation>
     </message>
     <message>
-      <location filename="../searchdlg.ui" line="164"/>
+      <location filename="../searchdlg.ui" line="168"/>
       <source>hex</source>
       <translation>hex</translation>
     </message>
     <message>
-      <location filename="../searchdlg.ui" line="176"/>
+      <location filename="../searchdlg.ui" line="180"/>
       <source>Direction</source>
       <translation>Direcție</translation>
     </message>
     <message>
-      <location filename="../searchdlg.ui" line="182"/>
+      <location filename="../searchdlg.ui" line="186"/>
       <source>Up</source>
       <translation>Sus</translation>
     </message>
     <message>
-      <location filename="../searchdlg.ui" line="189"/>
+      <location filename="../searchdlg.ui" line="193"/>
       <source>Down</source>
       <translation>Jos</translation>
     </message>
     <message>
-      <location filename="../searchdlg.ui" line="204"/>
+      <location filename="../searchdlg.ui" line="208"/>
       <source>Replace All</source>
       <translation>Înlocuire tot</translation>
     </message>
     <message>
-      <location filename="../searchdlg.ui" line="224"/>
+      <location filename="../searchdlg.ui" line="228"/>
       <source>Find Next</source>
       <translation>Găsește următorul</translation>
     </message>
     <message>
-      <location filename="../searchdlg.ui" line="248"/>
-      <location filename="../searchdlg.cpp" line="63"/>
+      <location filename="../searchdlg.ui" line="252"/>
+      <location filename="../searchdlg.cpp" line="51"/>
       <source>Replace</source>
       <translation>Înlocuiește</translation>
     </message>
     <message>
-      <location filename="../searchdlg.ui" line="231"/>
+      <location filename="../searchdlg.ui" line="235"/>
       <source>Close</source>
       <translation>Închide</translation>
     </message>
     <message>
-      <location filename="../searchdlg.cpp" line="63"/>
+      <location filename="../searchdlg.cpp" line="51"/>
       <source>Find</source>
       <translation>Găsește</translation>
     </message>
     <message>
-      <location filename="../searchdlg.cpp" line="164"/>
+      <location filename="../searchdlg.cpp" line="151"/>
       <source>No matches found</source>
       <translation>Nici o potrivire găsită</translation>
     </message>
     <message numerus="yes">
-      <location filename="../searchdlg.cpp" line="169"/>
+      <location filename="../searchdlg.cpp" line="156"/>
       <source>%1 of %n match(es)</source>
       <translatorcomment>Do not touch %1 it must be as is. Make translations for both singular and plural forms. </translatorcomment>
       <translation>
@@ -683,7 +688,7 @@ Vrei să stezi rădăcina actuală a dosarului și să încerci din nou?</transl
       </translation>
     </message>
     <message numerus="yes">
-      <location filename="../searchdlg.cpp" line="222"/>
+      <location filename="../searchdlg.cpp" line="213"/>
       <source>%n value(s) was(were) replaced</source>
       <translatorcomment>Do not touch %n it must be as is. Do not touch HTML tags. It must be as is. Also check that autocorrection is disabled in your editor. Be care with trailing and leading spaces.</translatorcomment>
       <translation>
@@ -696,19 +701,19 @@ Vrei să stezi rădăcina actuală a dosarului și să încerci din nou?</transl
   <context>
     <name>TableView</name>
     <message>
-      <location filename="../tableview.cpp" line="58"/>
-      <location filename="../tableview.cpp" line="181"/>
+      <location filename="../tableview.cpp" line="43"/>
+      <location filename="../tableview.cpp" line="164"/>
       <source>Copy with Size</source>
       <translation>Copiază cu Dimensiunea</translation>
     </message>
     <message>
-      <location filename="../tableview.cpp" line="64"/>
-      <location filename="../tableview.cpp" line="182"/>
+      <location filename="../tableview.cpp" line="49"/>
+      <location filename="../tableview.cpp" line="165"/>
       <source>Copy Filename</source>
       <translation type="unfinished">Copy Filename</translation>
     </message>
     <message>
-      <location filename="../tableview.cpp" line="180"/>
+      <location filename="../tableview.cpp" line="163"/>
       <source>Copy</source>
       <translation type="unfinished">Copy</translation>
     </message>
@@ -716,12 +721,12 @@ Vrei să stezi rădăcina actuală a dosarului și să încerci din nou?</transl
   <context>
     <name>UrlEdit</name>
     <message>
-      <location filename="../urledit.cpp" line="82"/>
+      <location filename="../urledit.cpp" line="65"/>
       <source>Copy</source>
       <translation type="unfinished">Copy</translation>
     </message>
     <message>
-      <location filename="../urledit.cpp" line="83"/>
+      <location filename="../urledit.cpp" line="66"/>
       <source>Open in internet browser</source>
       <translation>Deschide în inetrnet browser</translation>
     </message>
@@ -729,13 +734,13 @@ Vrei să stezi rădăcina actuală a dosarului și să încerci din nou?</transl
   <context>
     <name>Worker</name>
     <message>
-      <location filename="../mainwindow.cpp" line="115"/>
+      <location filename="../mainwindow.cpp" line="97"/>
       <source>Can't open %1</source>
       <translatorcomment>Do not touch %1 it must be as is.</translatorcomment>
       <translation>Nu se poate deschide %1</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="152"/>
+      <location filename="../mainwindow.cpp" line="134"/>
       <source>Can't read from %1</source>
       <translatorcomment>Do not touch %1 it must be as is.</translatorcomment>
       <translation>Nu se poate citi din %1</translation>
