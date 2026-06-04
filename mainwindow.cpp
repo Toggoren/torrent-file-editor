@@ -516,6 +516,16 @@ void MainWindow::openUrl()
     }
 }
 
+void MainWindow::openCommentUrl()
+{
+    QStringList validSchemes = {QStringLiteral("http"), QStringLiteral("https")};
+
+    QUrl url(ui->pteComment->toPlainText());
+    if (url.isValid() && validSchemes.contains(url.scheme())) {
+        QDesktopServices::openUrl(url);
+    }
+}
+
 void MainWindow::dragEnterEvent(QDragEnterEvent *event)
 {
     if (!event->mimeData()->urls().isEmpty() && event->mimeData()->urls().at(0).isLocalFile()) {
@@ -1468,4 +1478,8 @@ void MainWindow::retranslateUi()
     _progressDialog->ensurePolished();
     _progressDialog->adjustSize();
     _progressDialog->setFixedSize(_progressDialog->size().width() * 2, _progressDialog->size().height());
+
+    // FIXME: Hack to avoid extra translations
+    QString openInBrowser = QApplication::translate("UrlEdit", "Open in internet browser");
+    ui->btnOpenCommentUrl->setToolTip(openInBrowser);
 }

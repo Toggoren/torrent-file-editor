@@ -377,11 +377,68 @@ SPDX-License-Identifier: GPL-3.0-or-later
            <widget class="QWidget" name="layoutWidget_3">
             <layout class="QVBoxLayout" name="verticalLayout_3">
              <item>
-              <widget class="QLabel" name="label">
-               <property name="text">
-                <string>Comment</string>
-               </property>
-              </widget>
+              <layout class="QHBoxLayout" name="horizontalLayout">
+               <item>
+                <widget class="QLabel" name="label">
+                 <property name="text">
+                  <string>Comment</string>
+                 </property>
+                </widget>
+               </item>
+               <item>
+                <widget class="QPushButton" name="btnOpenCommentUrl">
+                 <property name="sizePolicy">
+                  <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+                   <horstretch>0</horstretch>
+                   <verstretch>0</verstretch>
+                  </sizepolicy>
+                 </property>
+                 <property name="minimumSize">
+                  <size>
+                   <width>24</width>
+                   <height>24</height>
+                  </size>
+                 </property>
+                 <property name="maximumSize">
+                  <size>
+                   <width>24</width>
+                   <height>24</height>
+                  </size>
+                 </property>
+                 <property name="cursor">
+                  <cursorShape>PointingHandCursor</cursorShape>
+                 </property>
+                 <property name="focusPolicy">
+                  <enum>Qt::NoFocus</enum>
+                 </property>
+                 <property name="autoFillBackground">
+                  <bool>true</bool>
+                 </property>
+                 <property name="text">
+                  <string/>
+                 </property>
+                 <property name="icon">
+                  <iconset theme="applications-internet"/>
+                 </property>
+                 <property name="flat">
+                  <bool>true</bool>
+                 </property>
+                </widget>
+               </item>
+               <item>
+                <spacer name="horizontalSpacer_2">
+                 <property name="orientation">
+                  <enum>Qt::Horizontal</enum>
+                 </property>
+                 <property name="sizeHint" stdset="0">
+                  <size>
+                   <width>40</width>
+                   <height>20</height>
+                  </size>
+                 </property>
+                </spacer>
+               </item>
+              </layout>
              </item>
              <item>
               <widget class="QPlainTextEdit" name="pteComment">
@@ -396,6 +453,18 @@ SPDX-License-Identifier: GPL-3.0-or-later
             <layout class="QVBoxLayout" name="verticalLayout_2">
              <item>
               <widget class="QLabel" name="label_2">
+               <property name="minimumSize">
+                <size>
+                 <width>0</width>
+                 <height>24</height>
+                </size>
+               </property>
+               <property name="maximumSize">
+                <size>
+                 <width>16777215</width>
+                 <height>24</height>
+                </size>
+               </property>
                <property name="text">
                 <string>Trackers</string>
                </property>
@@ -1649,6 +1718,22 @@ SPDX-License-Identifier: GPL-3.0-or-later
     </hint>
    </hints>
   </connection>
+  <connection>
+   <sender>btnOpenCommentUrl</sender>
+   <signal>clicked()</signal>
+   <receiver>MainWindow</receiver>
+   <slot>openCommentUrl()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>545</x>
+     <y>133</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>353</x>
+     <y>289</y>
+    </hint>
+   </hints>
+  </connection>
  </connections>
  <slots>
   <slot>open()</slot>
@@ -1681,5 +1766,6 @@ SPDX-License-Identifier: GPL-3.0-or-later
   <slot>showTreeReplaceWindow()</slot>
   <slot>reloadFiles()</slot>
   <slot>copyMagnet()</slot>
+  <slot>openCommentUrl()</slot>
  </slots>
 </ui>

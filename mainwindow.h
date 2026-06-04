@@ -67,6 +67,7 @@ public slots:
     void copyMagnetExtra();
 
     void openUrl();
+    void openCommentUrl();
 
     void updateTab(int n);
     void updateBencodeFromRaw();
