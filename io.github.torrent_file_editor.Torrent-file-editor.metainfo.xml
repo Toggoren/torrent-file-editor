@@ -70,6 +70,20 @@
   <content_rating type="oars-1.0" />
 
   <releases>
+    <release version="1.0.3" date="2026-06-05">
+      <url>https://github.com/torrent-file-editor/torrent-file-editor/releases/tag/v1.0.3</url>
+      <issues>
+        <issue url="https://github.com/torrent-file-editor/torrent-file-editor/issues/172">#172</issue>
+      </issues>
+      <description>
+        <ul>
+          <li>Update translations</li>
+          <li>Add Source field to Main tab</li>
+          <li>Add button to open URL from Comment field to Main tab</li>
+          <li>Fix date time format in Date created</li>
+        </ul>
+      </description>
+    </release>
     <release version="1.0.2" date="2026-03-23">
       <url>https://github.com/torrent-file-editor/torrent-file-editor/releases/tag/v1.0.2</url>
       <issues>
